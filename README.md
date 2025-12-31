@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me----
 
 ```javascript
 const omBute = {
@@ -36,7 +36,7 @@ const omBute = {
 
 <div align="center">
 
-### 🔭 Currently Working On
+### Currently Working On:
 **Building a portfolio website** with HTML, CSS & JavaScript  
 **Creating engaging content** and managing social media presence  
 **Strengthening fundamentals** through hands-on projects
@@ -45,21 +45,21 @@ const omBute = {
 
 ---
 
-## 🎯 What I Bring to the Table
+## ? What I Bring to the Table-
 
 <div align="center">
 
-### 💻 Technical Skills
+### # Technical Skills
 `Frontend Development` • `HTML5` • `CSS3` • `JavaScript` • `C/C++` • `SQL`  
 `Cybersecurity Fundamentals` • `Git/GitHub` • `VS Code` • `MySQL`  
 `Prompt Engineering` • `AI Tools` • `MS Office Suite`
 
-### 🎨 Creative & Content Skills
+### # Creative & Content Skills
 `Video Editing` • `Adobe Premiere Pro` • `After Effects` • `Photoshop`  
 `Content Strategy` • `Viewership Analytics` • `Social Media Management`  
 `Canva` • `Engagement Optimization` • `Data-Driven Content Creation`
 
-### 🤝 Open to Collaborate On
+### #Open to Collaborate On
 Beginner-friendly frontend projects • Open-source contributions  
 Small learning-focused applications • Video editing projects  
 Social media campaigns • Tech educational content  
@@ -69,7 +69,7 @@ Creative collaborations combining code & content
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack!!!!
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Creative collaborations combining code & content
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -126,7 +126,7 @@ Creative collaborations combining code & content
 
 ---
 
-## 🐍 Contribution Graph
+##  Contribution Graph
 
 <div align="center">
 
@@ -140,7 +140,7 @@ Creative collaborations combining code & content
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -155,12 +155,12 @@ Creative collaborations combining code & content
 
 <div align="center">
 
-### 💭 *"An idiot admires complexity, a genius admires simplicity."*
+###  *"An idiot admires complexity, a genius admires simplicity.. i am a idiot."*
 **— Terry A. Davis (God's Programmer)**
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!!!!!
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
 
