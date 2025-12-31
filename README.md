@@ -92,7 +92,7 @@ Creative collaborations combining code & content
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![TinkerCAD](https://img.shields.io/badge/TinkerCAD-1C8DD9?style=for-the-badge&logo=autodesk&logoColor=white)
+[![Tinkercad](https://img.shields.io/badge/TinkerCAD-1C8DD9?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/users/5Y7mivOyygG-ozz11)
 
 ### Creative Suite
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -148,7 +148,7 @@ Creative collaborations combining code & content
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Butemahendra)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tyler-Durden-2047)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:butemahendra74@gmail.com)
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-3D%20Design-orange)](https://www.tinkercad.com/users/5Y7mivOyygG-ozz11)
+[![Tinkercad](https://img.shields.io/badge/TinkerCAD-1C8DD9?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/users/5Y7mivOyygG-ozz11)
 
 
 </div>
