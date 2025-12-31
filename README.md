@@ -148,6 +148,8 @@ Creative collaborations combining code & content
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Butemahendra)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tyler-Durden-2047)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:butemahendra74@gmail.com)
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-3D%20Design-orange)](https://www.tinkercad.com/users/5Y7mivOyygG-ozz11)
+
 
 </div>
 
