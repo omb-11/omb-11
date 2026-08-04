@@ -40,7 +40,7 @@ const omBute = {
 <div align="center">
 
 ### # Technical Skills
-`Frontend Development` • `HTML5` • `CSS3` • `JavaScript` • `C/C++` • `SQL`  
+`OpenSource Contribution.` • `HTML5` • `CSS3` • `JavaScript` • `C/C++` • `SQL`  
 `Cybersecurity Fundamentals` • `Git/GitHub` • `VS Code` • `MySQL`  
 `Prompt Engineering` • `AI Tools` • `MS Office Suite`
 
@@ -50,6 +50,7 @@ const omBute = {
 `Canva` • `Engagement Optimization` • `Data-Driven Content Creation`
 
 ### #Open to Collaborate On
+ • OPEN SOURCE CONTRIBUTION  •Building a SaaS ai project 
 Beginner-friendly frontend projects • Open-source contributions  
 Small learning-focused applications • Video editing projects  
 Social media campaigns • Tech educational content  
@@ -102,19 +103,6 @@ Creative collaborations combining code & content
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=omyaaa1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9)
-
-![](https://nirzak-streak-stats.vercel.app/?user=omyaaa1&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=764ba2)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omyaaa1&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=667eea&text_color=c9d1d9)
-
-</div>
-
-
 
 ## Connect With Me
 
@@ -125,19 +113,12 @@ Creative collaborations combining code & content
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/Tyler-Durden-2047)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:butemahendra74@gmail.com)
 [![Tinkercad](https://img.shields.io/badge/TinkerCAD-1C8DD9?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.tinkercad.com/users/5Y7mivOyygG-ozz11)
-
-
 </div>
-
 ---
-
 <div align="center">
-
 ###  *"let it rip"*
 **— the bear**
-
 ---
-
 ###  Thanks for visiting my profile!!!!!
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
