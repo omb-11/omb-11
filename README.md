@@ -20,30 +20,20 @@
 const omBute = {
     name: "Om Bute",
     location: "Nagpur, Maharashtra, India",
-    education: "B.Tech IoT @ SVPCET Nagpur",
-    year: "First Year",
-    role: ["Frontend Developer", "Video Editor", "Content Creator"],
-    currentlyLearning: ["JavaScript", "C/C++", "Cybersecurity", "SQL"],
+    education: "B.Tech I.T @ SVPCET Nagpur",
+    year: "SECOND Year",
+    currentlyLearning: ["JavaScript", "C/C++", "Cybersecurity", "SQL","CPP","C","PYTHON"],
     skills: {
-        technical: ["HTML/CSS", "JavaScript", "Git", "MySQL"],
-        creative: ["Video Editing", "Content Strategy", "Social Media Management"],
-        tools: ["Adobe Premiere Pro", "After Effects", "Photoshop", "VS Code"]
+        technical: ["Python", "JavaScript", "Git", "MySQL"],
+        creative: ["Video Editing", "Content Strategy", "Social Media Management", "Prompt Engineering"],
+        tools: ["Adobe Premiere Pro", "After Effects", "Photoshop", "VS Code", "github", "linux" , "vim"]
     },
-    interests: ["IoT Systems", "Web Development", "Cybersecurity", "Content Creation"],
-    philosophy: "Understanding failures before optimizing success"
+    interests: ["IoT Systems", "Web Development", "Cybersecurity", "Devops" , "ML", "Transformers"]
+    philosophy: "let it rip"
 };
 ```
 
 <div align="center">
-
-### Currently Working On:
-**Building a portfolio website** with HTML, CSS & JavaScript  
-**Creating engaging content** and managing social media presence  
-**Strengthening fundamentals** through hands-on projects
-
-</div>
-
----
 
 ## ? What I Bring to the Table-
 
@@ -124,21 +114,7 @@ Creative collaborations combining code & content
 
 </div>
 
----
 
-##  Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omyaaa1/omyaaa1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omyaaa1/omyaaa1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omyaaa1/omyaaa1/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
 
 ## Connect With Me
 
@@ -157,8 +133,8 @@ Creative collaborations combining code & content
 
 <div align="center">
 
-###  *"An idiot admires complexity, a genius admires simplicity.. i am a idiot."*
-**— Terry A. Davis (God's Programmer)**
+###  *"let it rip"*
+**— the bear**
 
 ---
 
